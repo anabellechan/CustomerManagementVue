@@ -1,0 +1,31 @@
+{
+  "name": "vue-project",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "bootstrap-vue": "^2.23.1",
+    "bulma": "^0.9.4",
+    "export-from-json": "^1.7.2",
+    "primevue": "^3.27.0",
+    "vue": "^3.2.47",
+    "vue-cookies": "^1.8.3",
+    "vue-csv-import": "^4.1.2",
+    "vue-fuse": "^4.1.1",
+    "vue-router": "^4.1.6",
+    "vue-search-input": "^1.1.11",
+    "vue3-cookies": "^1.0.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "papaparse": "^5.4.1",
+    "sass": "^1.62.0",
+    "sass-loader": "^13.2.2",
+    "vite": "^4.1.4"
+  }
+}
