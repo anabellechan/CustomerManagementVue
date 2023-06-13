@@ -13,7 +13,7 @@ and an export function to export that selected dataset out to csv.
 <img width="481" alt="image" src="https://github.com/anabellechan/CustomerManagementVue/assets/97331839/97bd5342-76f9-4a15-8474-62b316f32eb8">
 <img width="503" alt="image" src="https://github.com/anabellechan/CustomerManagementVue/assets/97331839/8d2553d2-56fd-4112-bbbc-5a2c5fd54b8b">
 
-Features
+Features  
 <img width="554" alt="image" src="https://github.com/anabellechan/CustomerManagementVue/assets/97331839/0308f907-7385-4e0a-b52e-3ee666395151">
 <img width="553" alt="image" src="https://github.com/anabellechan/CustomerManagementVue/assets/97331839/53028dba-23d1-4452-91f4-f6619d39ab7d">
 <img width="509" alt="image" src="https://github.com/anabellechan/CustomerManagementVue/assets/97331839/213deab8-5d11-44f1-9df4-9ab154bd99b4">
