@@ -5,7 +5,7 @@ This Customers' Data Management System was Created for users to view, add and ma
 The end-to-end prototype(using vuejs as UI, Django as the ORM to Postgres) includes:
 Allowing a user to upload a csv file for bulk record data ingestion as well as 
 a simple table that allows fuzzy query to customers dataset 
-and an export function to export that selected dataset out to csv.
+and an export function to export that selected dataset out to csv.  
 <img width="557" alt="image" src="https://github.com/anabellechan/CustomerManagementVue/assets/97331839/a6016f98-dde2-4c60-bc62-655100720dbf">
 <img width="558" alt="image" src="https://github.com/anabellechan/CustomerManagementVue/assets/97331839/8d53dc4a-352b-47d4-bfd9-78e08ff88f92">
 <img width="554" alt="image" src="https://github.com/anabellechan/CustomerManagementVue/assets/97331839/f6e6d90c-f887-4142-9e6c-5cf2f72377ac">
