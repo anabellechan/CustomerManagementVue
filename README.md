@@ -23,11 +23,11 @@ Error Handling:
 
 Webapp Security Measures  
 <img width="466" alt="image" src="https://github.com/anabellechan/CustomerManagementVue/assets/97331839/b626cd9a-0948-4d0e-97ea-d450eb1df285">
--Token Expiration (Access=15mins, Refresh=1day)
+-Token Expiration (Access=15mins, Refresh=1day)  
 Program’s Secret Credentials from settings into .env
 	- Secret key 
 	- Whitelist CORS
-	- Database Username and Password
+	- Database Username and Password  
 
 Program Efficiency 
 ![image](https://github.com/anabellechan/CustomerManagementVue/assets/97331839/69fd6675-8d06-4f96-aa1b-e2339e17b1be)
