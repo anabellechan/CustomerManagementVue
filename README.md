@@ -30,7 +30,6 @@ Program’s Secret Credentials from settings into .env
 	- Database Username and Password  
 
 ![image](https://github.com/anabellechan/CustomerManagementVue/assets/97331839/69fd6675-8d06-4f96-aa1b-e2339e17b1be)
-Results Before Completion of Error Handling
 ![image](https://github.com/anabellechan/CustomerManagementVue/assets/97331839/fd629e37-1f0b-4c33-b74a-89eb87fb0ba0)
 ![image](https://github.com/anabellechan/CustomerManagementVue/assets/97331839/f12fea0d-58da-4286-b63f-c87b757310cf)
 
