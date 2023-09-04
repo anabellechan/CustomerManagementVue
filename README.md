@@ -21,7 +21,7 @@ Error Handling:
 <img width="472" alt="image" src="https://github.com/anabellechan/CustomerManagementVue/assets/97331839/4d0c78a8-48d1-4aae-8221-819e7560334b">
 
 
-Webapp Security Measures
+Webapp Security Measures  
 <img width="466" alt="image" src="https://github.com/anabellechan/CustomerManagementVue/assets/97331839/b626cd9a-0948-4d0e-97ea-d450eb1df285">
 -Token Expiration (Access=15mins, Refresh=1day)
 Program’s Secret Credentials from settings into .env
