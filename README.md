@@ -9,11 +9,11 @@ This is the frontend for the Customer Management System. It requires the backend
 ![image](https://github.com/anabellechan/CustomerManagementVue/assets/97331839/bab8356d-7c5d-40a1-a66a-106356ea8b90)
 ![image](https://github.com/anabellechan/CustomerManagementVue/assets/97331839/90e81246-517a-4fef-a6de-883c3906208a)
 
-Database Changes
+Database Changes  
 <img width="506" alt="image" src="https://github.com/anabellechan/CustomerManagementVue/assets/97331839/5c1eb07e-be91-4bae-b559-9e8c3af975dd">
 
 
-Error Handling: \n
+Error Handling:  
 
 <img width="559" alt="image" src="https://github.com/anabellechan/CustomerManagementVue/assets/97331839/e945a655-b3a1-4898-9e99-672d37d11e6d">
 <img width="560" alt="image" src="https://github.com/anabellechan/CustomerManagementVue/assets/97331839/89900710-5f34-41dd-be7c-c70e99195cef">
