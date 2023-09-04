@@ -34,5 +34,14 @@ Program’s Secret Credentials from settings into .env
 ![image](https://github.com/anabellechan/CustomerManagementVue/assets/97331839/f12fea0d-58da-4286-b63f-c87b757310cf)
 
 
+Future Improvements  
+-CSRF Token to Prevent Unauthorised Actions
+-Add more loggers  
+-ESLint Code Consistency and Organisation  
+-Improvement of UI/UX  
+![image](https://github.com/anabellechan/CustomerManagementVue/assets/97331839/fd6521d1-8cb8-4086-aea0-d173b95fb34b)
+
+
+
 
 
