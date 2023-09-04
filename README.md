@@ -39,9 +39,6 @@ Future Improvements
 -Add more loggers  
 -ESLint Code Consistency and Organisation  
 -Improvement of UI/UX  
-![image](https://github.com/anabellechan/CustomerManagementVue/assets/97331839/fd6521d1-8cb8-4086-aea0-d173b95fb34b)
-
-
 
 
 
