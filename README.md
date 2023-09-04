@@ -3,4 +3,23 @@ The Front-end for the Customer Management System in Vue.
 This folder excludes node-modules and the npm modules should be downloaded from the package.json.
 This is the frontend for the Customer Management System. It requires the backend django named "thesite" for it to work. This Customers' Data Management System was Created for users to view, add and manage customer’s data. The end-to-end prototype(using vuejs as UI, Django as the ORM to Postgres) includes: Allowing a user to upload a csv file for bulk record data ingestion as well as a simple table that allows fuzzy query to customers dataset and an export function to export that selected dataset out to csv.
 ![image](https://github.com/anabellechan/CustomerManagementVue/assets/97331839/9d7c314e-9fe1-4ad8-b243-861e1369c63c)
+![image](https://github.com/anabellechan/CustomerManagementVue/assets/97331839/1a3e5061-81ad-4191-87d4-fe950ebc6b22)
+![image](https://github.com/anabellechan/CustomerManagementVue/assets/97331839/52072203-721d-40ba-9ae0-ffe8e3a8a88d)
+![image](https://github.com/anabellechan/CustomerManagementVue/assets/97331839/ddea5839-b1b8-4894-b2ae-bf7c7f683d28)
+![image](https://github.com/anabellechan/CustomerManagementVue/assets/97331839/bab8356d-7c5d-40a1-a66a-106356ea8b90)
+![image](https://github.com/anabellechan/CustomerManagementVue/assets/97331839/90e81246-517a-4fef-a6de-883c3906208a)
+
+Database Changes
+<img width="506" alt="image" src="https://github.com/anabellechan/CustomerManagementVue/assets/97331839/5c1eb07e-be91-4bae-b559-9e8c3af975dd">
+
+
+Error Handling: 
+
+<img width="559" alt="image" src="https://github.com/anabellechan/CustomerManagementVue/assets/97331839/e945a655-b3a1-4898-9e99-672d37d11e6d">
+<img width="560" alt="image" src="https://github.com/anabellechan/CustomerManagementVue/assets/97331839/89900710-5f34-41dd-be7c-c70e99195cef">
+<img width="563" alt="image" src="https://github.com/anabellechan/CustomerManagementVue/assets/97331839/a600e1c1-644d-4ca7-9081-95084a3dcd2f">
+<img width="472" alt="image" src="https://github.com/anabellechan/CustomerManagementVue/assets/97331839/4d0c78a8-48d1-4aae-8221-819e7560334b">
+
+
+
 
