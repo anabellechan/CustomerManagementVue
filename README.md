@@ -19,7 +19,7 @@ Error Handling:
 <img width="560" alt="image" src="https://github.com/anabellechan/CustomerManagementVue/assets/97331839/89900710-5f34-41dd-be7c-c70e99195cef">
 <img width="563" alt="image" src="https://github.com/anabellechan/CustomerManagementVue/assets/97331839/a600e1c1-644d-4ca7-9081-95084a3dcd2f">
 <img width="472" alt="image" src="https://github.com/anabellechan/CustomerManagementVue/assets/97331839/4d0c78a8-48d1-4aae-8221-819e7560334b">
-![image](https://github.com/anabellechan/CustomerManagementVue/assets/97331839/682b41cd-64fd-422a-a3e0-5f4334ea007f)
+
 
 Webapp Security Measures
 <img width="466" alt="image" src="https://github.com/anabellechan/CustomerManagementVue/assets/97331839/b626cd9a-0948-4d0e-97ea-d450eb1df285">
